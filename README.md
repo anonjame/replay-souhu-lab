@@ -1,2 +1,14 @@
 # replay-souhu-lab
-HTML page archive and documentation
+
+GitHub Pages 文件记录
+
+这个目录用于承载静态页面文件，内容会随发布任务持续补充。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 归档说明
+
+本仓库用于保存发布产物，不额外承诺页面内容长期不变。
